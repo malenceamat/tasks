@@ -1,7 +1,7 @@
 <?php if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) die(); ?>
 
 <div style="padding:40px">
-<h1>Yandex Disk CRUD (Component)</h1>
+<h1>Yandex Disk</h1>
 <h2>Добавить файл</h2>
 <form method="POST" enctype="multipart/form-data">
     <?= bitrix_sessid_post() ?>
